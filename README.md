@@ -4,12 +4,15 @@
 🚀 Passionate about building scalable web applications and enterprise systems  
 🌍 Based in Somalia  
 
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+
 ---
 
 ## 👨‍💻 About Me
 
 I am a results-driven Full Stack .NET Developer with experience in designing, developing, and maintaining enterprise-level applications using modern Microsoft technologies.  
-I love transforming business requirements into efficient, secure, and scalable software solutions.  
+I enjoy transforming business requirements into efficient, secure, and scalable software solutions.  
 
 ---
 
@@ -31,6 +34,8 @@ I love transforming business requirements into efficient, secure, and scalable s
 ### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,6 +43,16 @@ I love transforming business requirements into efficient, secure, and scalable s
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![EngKadar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkadar&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engkadar&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engkadar&theme=radical)
 
 ---
 
@@ -46,15 +61,16 @@ I love transforming business requirements into efficient, secure, and scalable s
 - Writing clean, maintainable, and scalable code  
 - Designing secure REST APIs  
 - Building enterprise-level web applications  
-- Database optimization and architecture  
+- Database optimization and architecture (SQL Server, PostgreSQL, MySQL, SQLite)  
 - Cloud-native .NET development  
+- CI/CD pipelines and containerization with Docker  
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/engkadar-hassan-640a75142/))  
+ 
 
 ---
 
@@ -63,3 +79,4 @@ I love transforming business requirements into efficient, secure, and scalable s
 - Master advanced system architecture and cloud-native .NET solutions  
 - Contribute to open-source projects  
 - Continuously enhance front-end and back-end expertise  
+- Expand expertise in DevOps and containerized environments  
