@@ -4,11 +4,6 @@
 🚀 Passionate about building scalable web applications and enterprise systems  
 🌍 Based in Somalia  
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
-
----
-
 ## 👨‍💻 About Me
 
 I am a results-driven Full Stack .NET Developer with experience in designing, developing, and maintaining enterprise-level applications using modern Microsoft technologies.  
